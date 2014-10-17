@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dio:home|Door43 (dio)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dio|d43-dio repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dio/archive/master.zip|d43-dio.zip]]
+
+**Recent Changes**
+{{changes>ns = dio}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dio|Ethnologue data]]
+
